@@ -108,15 +108,3 @@ make_move( player, Move, Quantity ):-
 						- the amount the buyer/seller is willing to buy/sell
 
 
-
-
-
---------
-5. Notes
---------
-- We may have to tweak a few things here and there ( mostly in the referee ) in the coming days.
-- We will run the game on a multi-agent board. We'll upload that soon. 
-	= The only difference in the game is, if 2 players are at the same location, who had his turn earlier will get to transact first. 
-- We will post all changes on moodle and make sure you know about it. It will not affect you much, We promise.
-
-
